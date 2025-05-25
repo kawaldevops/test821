@@ -1,0 +1,9 @@
+{
+	"name": "kwladf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "377c8cb1-b763-4a11-9862-c613ac8231d3",
+		"tenantId": "26f0aa56-6ea4-4ee3-a813-076788c06e60"
+	}
+}
